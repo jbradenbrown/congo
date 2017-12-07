@@ -1,0 +1,13 @@
+bin/
+include/
+lib/
+lib64
+Files/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+__pycache__/
+*.pyc
+*.pyd
+token
