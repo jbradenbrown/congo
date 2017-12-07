@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'congo',
   packages = ['congo'], # this must be the same as the name above
-  version = '1.0',
+  version = '1.0.1',
   description = 'A fully featured unit testing framework',
   author = 'Jeffrey Brown',
   author_email = 'jbradenbrown@gmail.com',
